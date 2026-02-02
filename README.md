@@ -9,19 +9,14 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 🗨️ Contato
+## 🗨️ Contatos
 <div> 
   <a href = "mailto:eemilly.ee23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emilly-frodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 📊 Estatísticas
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;"
-    src:"https://github-readme-stats.vercel.app/api?username=emillyfr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img aligh="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?
-    username=emillyfr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</p>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emillyfr/emillyfr/output/github-contribution-grid-snake-dark.svg">
