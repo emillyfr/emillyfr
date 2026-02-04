@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Emilly Rodrigues
 
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 <p>
   <img aligh="left" alt="Java"  width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="Js"  width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -9,6 +9,7 @@
   <img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Python"  width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
+
 ## 🗨️ Contatos
 <div> 
   <a href = "mailto:eemilly.ee23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
