@@ -23,7 +23,7 @@
 <p align="center">
   <img
     alt="GitHub Stats"
-    height="300"
+    width="400"
     src="https://githubcard.com/emillyfr.svg?d=fDjOyPnq"
   />
 </p>
