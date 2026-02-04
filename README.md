@@ -2,16 +2,13 @@
 
 
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
+<div aligh="center"><br>
   <img aligh="left" alt="Java"  width="30px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="Js"  width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Python"  width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-
-
 
 ## 🗨️ Contatos
 <div> 
