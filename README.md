@@ -25,7 +25,7 @@
     aligh="left"
     alt="GitHub Stats"
     height="200"
-    width="400"
+    width="600"
     style="padding-right:10px"
     src="https://githubcard.com/emillyfr.svg?d=fDjOyPnq"
   />
