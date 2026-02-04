@@ -20,12 +20,9 @@
 </div>
 
 ### Estatísticas
-<p>
+<p aligh="left">
   <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=emillyfr&show_icons=true&theme=radical)"
+    src="https://github-readme-stats.vercel.app" alt="emillyfr"
   />
 </p>
 
