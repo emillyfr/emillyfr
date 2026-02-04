@@ -22,7 +22,7 @@
 ### Estatísticas
 <p aligh="left">
   <img
-    https://githubcard.com/emillyfr.svg
+    src="https://githubcard.com/emillyfr.svg"
   />
 </p>
 
