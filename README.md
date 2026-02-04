@@ -20,7 +20,7 @@
 </div>
 
 ## 📊 Estatísticas
-<p aligh="center">
+<p align="center">
   <img
     alt="GitHub Stats"
     height="300"
