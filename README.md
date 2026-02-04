@@ -19,6 +19,16 @@
   <a href="https://www.linkedin.com/in/emilly-frodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+### Estatísticas
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=emillyfr&show_icons=true&theme=radical)"
+  />
+</p>
+
 
 
 
