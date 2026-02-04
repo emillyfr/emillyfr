@@ -22,7 +22,7 @@
 ### Estatísticas
 <p aligh="left">
   <img
-    src="https://github-readme-stats.vercel.app" alt="emillyfr"
+    https://githubcard.com/emillyfr.svg
   />
 </p>
 
