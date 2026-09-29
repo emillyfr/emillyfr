@@ -6,8 +6,12 @@
 
 # Hi, I´m Emilly Rodrigues! 🌸
 *Computer Science Student at [Federal University of Mato Grosso](https://www.ufmt.br/)*
-
-
+## About me
+- Interested in software development and backend technologies
+- Currently improving my skills in Java, Spring Boot, React and databases
+- I enjoy understanding how things work and turning ideas into practical solutions
+-  Always learning something new and exploring different areas of technology
+- Currently looking for opportunities to grow professionally and contribute to real-world projects
 
 ## Languages & Technologies
 <p>
