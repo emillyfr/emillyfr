@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=af677e&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emilly+Rodrigues;I`m+23+years+old;I+from+Brazil;Be+Welcome!+%3A%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF91A4&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Emilly+Rodrigues;I`m+23+years+old;I+from+Brazil;Be+Welcome!+%3A%29" />
 </p>
 
 # Hi, I´m Emilly Rodrigues! 🌸
